@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: purple;
+    font-weight: bolder;
+    padding: 20px;
+}
+h2{
+    font-weight: bold;
+    color: blueviolet;
+}
+.intro{
+    color: black;
+    height: 50;
+    width: 50;
+    
+}
+#image1{
+    height: 300px;
+    width: 300px;
+}
+#image2{
+    height: 300px;
+    width: 300px;
+}
